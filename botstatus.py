@@ -1,9 +1,3 @@
-#Copyright ©️ 2022 Am_Robots. All Rights Reserved
-#You are free to use this code in any of your project, but you MUST include the following in your README.md (Copy & paste)
-# ##Credits - [BotStatus Telegram bot by Am_Robots] (https://github.com/8769ANURAG/LIVE-STATUS-FOR-TG-BOT)
-
-# Changing the code is not allowed! Read GNU AFFERO GENERAL PUBLIC LICENSE: https://github.com/8769ANURAG/LIVE-STATUS-FOR-TG-BOT/blob/master/LICENSE
-
 from pyrogram import Client, filters
 from pyrogram.errors import FloodWait
 import asyncio
